@@ -1,51 +1,54 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
+*Estas normas son un documento “vivo” y sujeto a su ajuste y ampliación en el futuro.*
 
-The **Technologieplauscherl Slack Community** should be a safe place for everybody regardless of
+El canal de Slack **Zithub** debería ser un lugar seguro para todo el mundo sin importar
 
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+- El sexo
+- La orientación sexual
+- Cualquier Discapacidad
+- Apariencia física (incluyendo pero no sólo cualquier tamaño corporal)
+- La raza
+- La edad
+- La religión
 
-As someone who is part of this Slack, you agree that:
+Como parte de este Slack, estás de acuerdo en:
 
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-We avoid using offensive topics as a form of humor.
+* Estamos comprometidos, colectiva e individualmente, con la seguridad y la inclusividad.
+* Mantenemos una tolerancia cero al abuso, acoso o discriminación.
+* Respetamos los límites e identidades personales.
+* Repudiamos el uso del un lenguaje que pueda ser considerado opresivo, p.ej.: sexista, racista, homófobo, tránsfobo, clasista, capacitista, etc. Esto incluye, pero no sólo, insultos.
+* Evitamos el uso de tópicos como forma de humor.
 
+Trabajamos activamente para:
 
-We actively work towards:
+* Ser una comunidad segura
+* Crear una red de apoyo y confianza para cada uno de los demás.
+* Fomentamos las formas de expresión variadas y responsables.
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+Condenamos:
 
+* El acecho, las pesquisas o la divulgación de información privada.
+* Las amenazas de acoso o de daño.
+* Cualquier cosa que comprometa la seguridad de la gente.
 
-We condemn:
+**Estas cosas no están bien.**
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
+Si dices algo que es considerado ofensivo y te llaman la atención, entonces:
 
-**These things are NOT OK.**
+* Escucha sin interrupción.
+* Cree lo que te están diciendo y no intentes desacreditar lo que te tienen que decir.
+* Pregunta cómo puedes corregir y evitar ofender en el futuro.
+* Discúlpate y pide perdón.
 
-If you say something that is found offensive, and you are called out on it, let’s:
+No seguir estas pautas de la comunidad como se han descrito en este documento puede acarrear consecuencias. Por faltas menores, puedes ser suspendido en este Slack. Si las ofensas se repiten, o la comunidad cree que no actuas de buena fe, se te puede solicitar que abandones el canal permanentemente.
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+**Si sufres abuso, acoso, discriminación o inseguridad, házselo saber a los moderadores.**
+Esta es una lista de los actuales moderadores y sus identificaciones de Slack:
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
-
-
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
-
+* Carlos - @calocen
 * Francho - @francho
+* Javi - @javi
+* Julio - @papajulio
+* Pedro - @rm_dro
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+*El papel de los moderadores es ser mediadores imparciales, no moderarán o editarán nada escrito en el Slack a no ser que sea requerido como resultado de una discusión conflictiva.*
