@@ -9,6 +9,9 @@ El canal de Slack **Zithub** debería ser un lugar seguro para todo el mundo sin
 - La raza
 - La edad
 - La religión
+- Su nivel
+- Su sistema operativo
+- Su lenguaje de programación preferido
 
 Como parte de este Slack, estás de acuerdo en:
 
